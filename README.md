@@ -24,7 +24,7 @@ $ npm install --save-dev watchify
 ```
 
 ## Usage
-** Don't forget to configure your credentials for Twitter API (config.js)**
+**Don't forget to configure your credentials for Twitter API (config.js)**
 ### Development mode
 ```
 $ npm run start
