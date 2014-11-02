@@ -16,7 +16,7 @@ module.exports = {
         })
       );
 
-      // Render our 'home' template
+      // Render our home template
       res.render('home', {
         markup: markup, // Pass rendered react markup
         state: JSON.stringify(tweets) // Pass current state to client side
